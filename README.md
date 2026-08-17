@@ -27,7 +27,7 @@ An AI-powered website that explains any CS or math concept at different difficul
 - 🔴 **Technical** — formal, precise, and in-depth
 - 💡 **Quiz mode** — test yourself after learning
 - 🕓 **History** — tracks your last 5 looked-up topics
-🔗 [https://github.com/benaoudaaya07-arch/explain-this.git](link)
+🔗 [[https://github.com/benaoudaaya07-arch/explain-this.git](https://github.com/benaoudaaya07-arch/explain-this)](link)
 
  
 ### 🏦 Bank Management System (C)
@@ -37,12 +37,12 @@ A menu-driven bank management system built in C, using arrays and file handling 
 - Unique account ID generation
 - PIN-based authentication
 - Data saved to `bank_data.txt`
-🔗 [https://github.com/benaoudaaya07-arch/Bank-system-c.git](link)
+🔗 [[https://github.com/benaoudaaya07-arch/Bank-system-c.git](https://github.com/benaoudaaya07-arch/Bank-system-c)](link)
 
 ### ✊✋✌️ Rock Paper Scissors Game
 A small terminal-based Rock Paper Scissors game built in C, where you play against the computer.
  
-🔗 [https://github.com/benaoudaaya07-arch/Rock-paper-game.git](link)
+🔗 [[https://github.com/benaoudaaya07-arch/Rock-paper-game.git](https://github.com/benaoudaaya07-arch/Rock-paper-game)](link)
  
 *(This section will grow as I keep building — check my pinned repos too!)*
  
